@@ -58,13 +58,13 @@ export default function Recruitment26SuccessPage() {
             Or click this link to join directly:
           </p>
           <a
-            href="https://chat.whatsapp.com/KLZPw242JZG2EjUmga3uu6?s=sh&p=i&ilr=0&amv=2"
+            href="https://chat.whatsapp.com/IuTOPBHnvlc2tjxYKsf4vt?s=qt&p=a&mlu=4"
             target="_blank"
             rel="noreferrer"
             className="break-words text-base font-semibold text-[#C32325] hover:text-white"
             style={{ fontFamily: FORMULA_FONT }}
           >
-            https://chat.whatsapp.com/KLZPw242JZG2EjUmga3uu6?s=sh&p=i&ilr=0&amv=2
+            href="https://chat.whatsapp.com/IuTOPBHnvlc2tjxYKsf4vt?s=qt&p=a&mlu=4"
           </a>
         </div>
 
